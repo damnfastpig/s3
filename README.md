@@ -6,3 +6,7 @@ this is a dummy history
 this represents another change to the file and repository
 
 new
+
+new 2
+
+new 3
